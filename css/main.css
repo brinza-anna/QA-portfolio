@@ -993,7 +993,7 @@ a {
 }
 .modal .graph-modal__container--last-slide-bg {
   border: 3px solid var(--aqua);
-  background-image: url(../../img/events@1920-pic-1.jpg);
+  background-image: url(../img/events@1920-pic-1.jpg);
   background-repeat: no-repeat;
   background-size: cover;
 }
