@@ -686,7 +686,7 @@ a {
 .about {
   padding: 35px 0;
   background-color: var(--gray-light);
-  background-image: url(../../img/gallery-bg@1024.jpg);
+  background-image: url(../img/gallery-bg@1024.jpg);
   background-repeat: no-repeat;
   background-size: cover;
 }
